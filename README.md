@@ -1,4 +1,3 @@
-#Sanele Zondo
 # Automotive Sales Analysis – 2023 vs. 2022
 
 ## Project Overview
